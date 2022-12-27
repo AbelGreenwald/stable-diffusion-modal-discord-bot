@@ -16,6 +16,3 @@ with io.BytesIO() as buf:
     #with io.BytesIO() as buf:
     #    image.save(buf, format="PNG")
 #await message.channel.send(file=picture)
-
-
-#client.run("MTA1Njk5NTI4NDc4MzIwMjQwNg.G_5Wn5._0rGW_ENAqlHxi75O6wIXDhVHgb9TopJ6B3PUg")#os.environ["DISCORD_TOKEN"])
