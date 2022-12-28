@@ -47,7 +47,7 @@ We have logged in as stable-diffusion
 
 ## TODO
 This was a POC of sorts on my part that ended up going so well I was able to just make it work.  Fairly impressed with modal.com. However, there's still much to do:
-1. Secure the bot, I think I'ts wide open for people to add right now (approved on discord guild admin side not bot's).  This work will require Oauth2 work
+1. ~Secure the bot, I think I'ts wide open for people to add right now (approved on discord guild admin side not bot's).  This work will require Oauth2 work~
 2. General improvements to ML function.  skys the limit here but I think a bit slower for larger images might be nice.
 3. Figure out a way rerun a pervious model with new inputs (ML expert here would be helpful, also will need some kind of persistant state somewhere)
 4. Save or set Seeds?
